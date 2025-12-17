@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "粛聖!! ロリ神レクイエム☆",
+  "base_artist": "しぐれうい",
+  "createdAt": "2025-12-17T12:40:20.003706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "粛聖!!ロリ神レクイエム☆",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/01_粛聖!!ロリ神レクイエム☆_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "粛聖!!ロリ神レクイエム☆ (Instrumental)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/02_粛聖!!ロリ神レクイエム☆_(Instrumental)_しぐれうい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "粛聖!!ロリ神レクイエム☆（Instrumental）",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/03_粛聖!!ロリ神レクイエム☆(Instrumental)_しぐれうい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "粛聖!! ロリ神レクイエム☆",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_粛聖!!_ロリ神レクイエム☆_しぐれうい.txt"
+    }
+  ]
+}
